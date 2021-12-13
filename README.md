@@ -8,7 +8,7 @@
 - 💪 I would love to participate in a web development project for a work-study program.
 
 
-## Languages and Tools
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,3 +27,9 @@
 <img align="left" width="26px" alt="meterialize" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg">
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
+## Projects and Stats:
+
+<details>
+  <summary>:zap: GitHub stats</summary>
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Samybassobert73&show_icons=true&langs_count=8" alt="Samybassobert73 github stats" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samybassobert73&show_icons=true&layout=compact" alt="Samybassobert's github stats" />
