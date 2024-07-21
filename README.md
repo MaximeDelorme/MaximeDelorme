@@ -33,5 +33,5 @@
 
 <details>
   <summary>:zap: GitHub stats</summary>
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Samybassobert73&show_icons=true&langs_count=8" alt="Samybassobert73 github stats" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Samybassobert73&show_icons=true&langs_count=8" alt="MaximeDelorme github stats" />
  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samybassobert73&show_icons=true&layout=compact" alt="Samybassobert's github stats" />
